@@ -10,4 +10,5 @@ Change directory: cd /d drive:\path\
 Install virtual environmeny: pip install --user virtualenv\
 Create virtual environment: python -m venv freeai\
 Activate virtual environment: .\freeai\Scripts\activate\
+Install required libraries: pip install -r requirements.txt\
 Install OpenCV: pip install opencv-python

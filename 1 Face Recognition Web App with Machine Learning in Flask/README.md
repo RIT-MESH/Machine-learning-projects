@@ -7,6 +7,7 @@ Hands-On project from course https://www.udemy.com/course/build-face-recognition
 # Note:
 
 Change directory: cd /d drive:\path\
-install virtual environmeny: pip install --user virtualenv\
+Install virtual environmeny: pip install --user virtualenv\
 Create virtual environment: python -m venv freeai\
-Activate virtual environment: .\freeai\Scripts\activate
+Activate virtual environment: .\freeai\Scripts\activate\
+Install OpenCV: pip install opencv-python

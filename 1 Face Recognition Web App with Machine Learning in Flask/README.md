@@ -12,3 +12,4 @@ Create virtual environment: python -m venv freeai\
 Activate virtual environment: .\freeai\Scripts\activate\
 Install required libraries: pip install -r requirements.txt\
 Install OpenCV: pip install opencv-python
+Install flask: pip install flask

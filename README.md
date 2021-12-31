@@ -4,7 +4,7 @@
 
 
 ## Description
-• This Repository consists course material and hand-on projects on Machine Learning Projects done by Me.\
+• This Repository consists of course material and hand-on projects on Machine Learning Projects done by Me.\
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.\
 • Visit each folder to access the Projects in detail.
 

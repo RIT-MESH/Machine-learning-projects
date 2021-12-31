@@ -12,3 +12,6 @@
 
 
 <img src="https://github.com/RIT-MESH/Machine-learning-projects/blob/main/Machine%20Learning%20Project.jpg" alt="Landing Page" height="40%" width="70%" />
+
+### Repo Stats:
+[![GitHub](https://img.shields.io/github/followers/RIT-MESH?style=social)](https://github.com/RIT-MESH)  &ensp;  [![GitHub](https://img.shields.io/github/stars/RIT-MESH/Deep-Learning-Projects?style=social)](https://github.com/RIT-MESH/Machine-learning-projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/RIT-MESH/Machine-learning-projects?style=social)](https://github.com/RIT-MESH/Machine-learning-projects)

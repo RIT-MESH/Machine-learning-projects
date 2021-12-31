@@ -5,7 +5,7 @@
 
 ## Description
 • This Repository consists of course material and hand-on projects on Machine Learning Projects done by Me.\
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well.\
+• Datasets and related codes are provided in each of the folders above\\
 • Visit each folder to access the Projects in detail.
 
 
@@ -16,4 +16,4 @@
 ## Don't forget to ⭐ the repository, if it helped you in anyway.
 
 ### Repo Stats:
-[![GitHub](https://img.shields.io/github/followers/RIT-MESH?style=social)](https://github.com/RIT-MESH)  &ensp;  [![GitHub](https://img.shields.io/github/stars/RIT-MESH/Deep-Learning-Projects?style=social)](https://github.com/RIT-MESH/Machine-learning-projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/RIT-MESH/Machine-learning-projects?style=social)](https://github.com/RIT-MESH/Machine-learning-projects)
+[![GitHub](https://img.shields.io/github/followers/RIT-MESH?style=social)](https://github.com/RIT-MESH)  &ensp;  [![GitHub](https://img.shields.io/github/stars/RIT-MESH/Machine-learning-projects?style=social)](https://github.com/RIT-MESH/Machine-learning-projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/RIT-MESH/Machine-learning-projects?style=social)](https://github.com/RIT-MESH/Machine-learning-projects)

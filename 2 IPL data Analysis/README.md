@@ -1,3 +1,4 @@
+# IPL data Analysis
 
 
 ## Problem Definition
@@ -43,7 +44,7 @@ objectives of this project are as follow:\
  Teams with most wins and the cities\
  Cities hosted maximum IPL matches**
 
-## Classification
+### Classification
 Now, we use the training and split method to build classifier models to predict the winner
 and prepare a final report for the F1-scores of the models. We will also do Hyper-tuning
 using GridSearchCV to tune the parameters of models.\

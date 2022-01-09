@@ -1,1 +1,4 @@
-## EDA on FIFA World Cup Matches
+# EDA on FIFA World Cup Matches
+This project is part if course https://www.udemy.com/course/complete-data-visualization-in-python
+## Description:
+ We will be taking EDTA on FIFA World Cup matches so the dataset is acquired from the Kaggle. first of all I'll start with the importing the necessary packages and the data then I do some data cleaning that is really very important to do the data cleaning because a lot of the stadium names and the country name has been changed after the World War 2 and then I'll start with the visualization the country which has won the most number of times the World Cup titles and the most number of goals has been hit. And apart from this we'll be also talking about the goal is scored by the team per year matches played by the teams per year and the goals party in per World Cup starts when there is a lot of the statistical

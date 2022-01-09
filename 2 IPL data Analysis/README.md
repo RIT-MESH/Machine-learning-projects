@@ -41,7 +41,7 @@ objectives of this project are as follow:\
  Team won maximum matches per season\
  Number of times team won match in a venue\
  Teams with most wins and the cities\
- Cities hosted maximum IPL matches**\
+ Cities hosted maximum IPL matches**
 
 ## Classification
 Now, we use the training and split method to build classifier models to predict the winner

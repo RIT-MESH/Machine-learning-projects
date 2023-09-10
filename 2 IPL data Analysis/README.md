@@ -1,3 +1,5 @@
+This project is done as requirment for completion of **Post Graduate diploma in data science & analytics**, National Institute of Electronics & Information Technology, an Institute of  Government of India
+
 # IPL data Analysis
 
 
